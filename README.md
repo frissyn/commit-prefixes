@@ -1,6 +1,12 @@
 # Commit Prefixes
 
-My personal style guide for writing GitHub commit messages. More specifially, the prefixes.
+My personal style guide for writing GitHub commit messages. More specifially, the prefixes. Prefixes should be written in the following format:
+
+```html
+<prefix>: <message> (<reference>)
+```
+
+`prefix` should be either an emoji OR it's name, not both. `message` is, of course, your commit message followed by `reference`, which is your issue or pull request reference (if applicable).
 
 ✨ **This is a Work in Progress!** ✨
 
