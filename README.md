@@ -11,3 +11,4 @@ My personal style guide for writing GitHub commit messages. More specifially, th
 |️️03  |🔀    |`merge`           |`🔀: merge pull request from user/patch-1`   |
 |04  |⬆️    |`bump`, `upgrade` |`⬆️: bump highlight.js from 1.1.2 to 1.2.0`  |
 |05  |🔒    |`security`        |`🔒: move exposed API key to .env file`      |
+|06  |🏷️    |`label`, `tag`    |`🏷️: release v0.1.1`                         |
