@@ -19,4 +19,8 @@ My personal style guide for writing GitHub commit messages. More specifially, th
 |05  |⬆️    |`bump`, `upgrade`           |`⬆️: bump highlight.js from 1.1.2 to 1.2.0`                  |
 |06  |🔒    |`security`                  |`🔒: move exposed API key to .env file`                      |
 |07  |🏷️    |`label`, `tag`              |`🏷️: release v0.1.1`, `🏷️: v1.0.2`                           |
-|08  |📝    |`legal`, `docs`, `markdown` |`📝: add GNU GPL v3 license`, `📝: update contributing guide`|
+|08  |📝    |`legal`, `markdown`         |`📝: add GNU GPL v3 license`, `📝: update contributing guide`|
+|09  |📖    |`docs`                      |`📖: update docs to cover 0.5.0 endpoints`                   |
+|10  |🏗️    |`restructure`, `rework`     |`🏗️: redesign port forwarding implementation`                |
+|11  |💄    |`beautify`, `code style`    |`💄: apply code styling to lib`                              |
+|12  |📦    |`package`, `packager`       |`📦: update package.json and npm scripts`                    |
